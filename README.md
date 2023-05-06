@@ -1,0 +1,2 @@
+# ZAlgorithmConsole
+ Learn Z Algorithm
