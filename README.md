@@ -26,3 +26,11 @@ Z Algorithm 重點在於重用已配對過的結果, 判斷之前結果是否適
 <p>
 外層循環線性遍歷一次,內層循環R每次都會右移一次,所以時間複雜度為 O(n)
 </p>
+
+<p>
+<div>References : </div>
+<ul>
+<li>https://www.geeksforgeeks.org/z-algorithm-linear-time-pattern-searching-algorithm/</li>
+<li>https://oi-wiki.org/string/z-func/</li>
+</ul>
+</p>
